@@ -1,0 +1,23 @@
+{
+  "name": "enn/entity",
+  "description": "Enn Project Entity",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Arman",
+      "email": "armanmh@hotmail.com"
+    }
+  ],
+  "autoload": {
+    "files": [
+    ],
+    "psr-4": {
+      "EnnEntity\\": "src/"
+    }
+  },
+
+  "require": {
+    "php": "^7.2"
+  }
+}
